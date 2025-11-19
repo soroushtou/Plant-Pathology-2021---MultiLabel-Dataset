@@ -3,6 +3,6 @@ This is a repository of the training and test data used in the article, "Deep Le
 
 Note that this dataset is a conversion of a Multi-Class dataset to a Multi-Label dataset, and the train-test ratio is 80:20.
 
-The original public dataset is collected by Thap et. al. as in: https://vision.cornell.edu/se3/wp-content/uploads/2021/09/029.pdf
+The original public dataset is collected by Thapa et. al. as in: https://vision.cornell.edu/se3/wp-content/uploads/2021/09/029.pdf
 
 It can be found here: https://kaggle.com/competitions/plant-pathology-2021-fgvc8
